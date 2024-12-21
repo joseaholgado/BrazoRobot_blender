@@ -9,8 +9,8 @@ Este proyecto consiste en un modelo 3D de un brazo robótico creado en Blender. 
 - Compatible con versiones recientes de Blender.
 - Documentación básica para su uso y personalización.
 
-![Imagen del Brazo Robótico](ruta/a/tu/imagen.png)
+![Imagen del Brazo Robótico](./Captura_blender_brazoRobot.png)
 
 Puedes ver una demostración del brazo robótico en el siguiente video:
 
-[Ver video de demostración](https://link-al-video.com)
+[Brazo Robot con Blender]((https://www.youtube.com/watch?v=qQDVk76BhPg))
